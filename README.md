@@ -6,9 +6,11 @@
 ## Installation (kurulum)
 git clone https://github.com/acnsoft/PerseusQr.git
 
+pip3 install -r requirements.txt
+
 cd PerseusQr
 
-python3 perseusqr.py 
+python3 perseusqr.py
 
 ## Usage (kullanım)
 
