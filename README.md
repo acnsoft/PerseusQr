@@ -1,5 +1,5 @@
 # PerseusQr
-[En] PerseusQr is a simple and plain qrcode maker tool
+[En] PerseusQr is a simple and plain qrcode generator tool
 
 [Tr] PerseusQr, basit ve sade bir qrcode oluşturma aracıdır
 
